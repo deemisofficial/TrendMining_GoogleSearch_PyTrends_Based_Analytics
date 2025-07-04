@@ -51,4 +51,4 @@ To mine, analyze, and visualize search patterns for selected keywords across the
 * Trend evolution across time using **line graphs**.
 * Potential **seasonal patterns** or spikes in public interest.
 
-![Dashboard Screenshot](Maximum_sales_sector_visuals.png)
+![Dashboard Screenshot](search_interest_over_the_time.jpg)
