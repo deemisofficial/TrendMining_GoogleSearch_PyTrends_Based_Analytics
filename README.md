@@ -1,9 +1,6 @@
 # TrendMining_GoogleSearch_PyTrends_Based_Analytics
 This project uses Python-based data analysis using the Google Trends API (PyTrends) to investigate regional and worldwide search trends.
-Absolutely, Deemis! Here's a complete, professional-style `README.md` structure for your project **`TrendMining_GoogleSearch_PyTrends_Based_Analytics`** — tailored to showcase your skills and impress recruiters, contributors, and the community.
-
 ---
-
 ## 🧠 Project Title
 
 **TrendMining: Google Search PyTrends-Based Analytics**
